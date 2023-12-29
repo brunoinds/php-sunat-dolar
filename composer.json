@@ -1,6 +1,7 @@
 {
     "name": "brunoinds/sunat-dolar",
     "description": "Calculate SUNAT Perú dollar exchange",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Brunoinds\\SunatDolar\\": "src/"
